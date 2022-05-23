@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BlazejWo
-- 👀 I’m interested in gardening
+- 👀 I’m interested in gardening, traveling.
 - 🌱 I’m currently learning Flutter & Dart
 - 💞️ I’m looking to collaborate with the best developers who develop the app
 - 📫 How to reach me: 
